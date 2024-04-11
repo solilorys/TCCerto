@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ApiController;
 
 Route::get('/', 'App\Http\Controllers\PrincipalController@index')->name('site.index');
-Route::get('/chat', 'App\Http\Controllers\ChatController@chat')->name('site.chat');
+Route::get('/api', 'App\Http\Controllers\ApiController@index')->name('site.api');

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Chat GPT Laravel | Code with Ross</title>
+  <title>Chat TCCerto</title>
   <link rel="icon" href="https://assets.edlin.app/favicon/favicon.ico"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -22,7 +22,7 @@
   <div class="top">
     <img src="https://assets.edlin.app/images/rossedlin/03/rossedlin-03-100.jpg" alt="Avatar">
     <div>
-      <p>Ross Edlin</p>
+      <p>Laryssa</p>
       <small>Online</small>
     </div>
   </div>
@@ -32,7 +32,7 @@
   <div class="messages">
     <div class="left message">
       <img src="https://assets.edlin.app/images/rossedlin/03/rossedlin-03-100.jpg" alt="Avatar">
-      <p>Start chatting with Chat GPT AI below!!</p>
+      <p>Iniciando Chat para ajudar no TCC</p>
     </div>
   </div>
   <!-- End Chat -->

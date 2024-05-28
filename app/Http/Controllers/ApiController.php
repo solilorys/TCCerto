@@ -14,7 +14,6 @@ class ApiController extends Controller
      */
     public function index(Request $request): string
     {
-
         try {
             /** @var array $response */
             $response = Http::withHeaders([
